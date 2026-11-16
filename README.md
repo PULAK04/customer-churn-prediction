@@ -213,11 +213,3 @@ Actual model performance metrics are generated during execution and saved for fu
 
 The analysis uses a historical telecom dataset and may not generalize to other businesses or customer populations. Feature importance and customer-segment patterns indicate associations, not causation. Retention strategies should be validated through controlled experiments.
 
-## Resume Description
-
-**Customer Churn Prediction and Retention Analysis | Python, Pandas, Scikit-learn, Matplotlib, Seaborn**
-
-- Developed customer churn classification pipelines using Logistic Regression, Random Forest, and HistGradientBoosting.
-- Performed exploratory data analysis and feature engineering on customer tenure, service subscriptions, contract details, and billing information.
-- Compared models using PR-AUC, Precision, Recall, and F1-score, with validation-based threshold optimization.
-- Analyzed customer churn-risk segments and feature importance to derive actionable customer retention insights.
